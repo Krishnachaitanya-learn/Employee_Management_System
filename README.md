@@ -1,11 +1,11 @@
 # Employee_Management_System
 Beginner level project to get familiar with Java-Swing and JDBC
 ##**Requirements** :
--java
--jTattoo-1.6.13 (jar file) [MavenRepo](https://mvnrepository.com/artifact/com.jtattoo/JTattoo).
--rs2xml (jar file)
--NetBeans IDE (recommended)
--XAMPP (for database)
+- ~~jdk~~
+- _jTattoo-1.6.13_ (jar file) [MavenRepo](https://mvnrepository.com/artifact/com.jtattoo/JTattoo).
+- _rs2xml_ (jar file)
+- _NetBeans_ IDE (recommended)
+- _XAMPP_ (for database)
 
 ###Introduction
 I've made this project for my college assignment.
