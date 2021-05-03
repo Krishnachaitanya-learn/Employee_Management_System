@@ -17,4 +17,5 @@ Project contains :
 - Also included storing Image in DB and Displaying image
 
 ###By :
-[Email ADD:](krishnachaitanyayerrapatruni@gmail.com)
+**Email Address**
+[Krishna Chaitanya Yerrapatruni](krishnachaitanyayerrapatruni@gmail.com)
