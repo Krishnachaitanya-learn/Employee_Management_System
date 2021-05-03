@@ -57,7 +57,8 @@ public class Login extends javax.swing.JFrame {
             }
         });
 
-        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ICONS/User-Interface-Login-icon.png"))); // NOI18N
+        jButton1.setFont(new java.awt.Font("sansserif", 0, 16)); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ICONS/preferences-system-login-icon.png"))); // NOI18N
         jButton1.setText("Login");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -71,9 +72,9 @@ public class Login extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel1.setText("Username");
 
-        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ICONS/Users-Administrator-icon.png"))); // NOI18N
+        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ICONS/person-icon (1).png"))); // NOI18N
 
-        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ICONS/User-Interface-Password-2-icon.png"))); // NOI18N
+        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ICONS/keys-icon.png"))); // NOI18N
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
@@ -117,7 +118,7 @@ public class Login extends javax.swing.JFrame {
                         .addComponent(jLabel2)))
                 .addGap(44, 44, 44)
                 .addComponent(jButton1)
-                .addContainerGap(59, Short.MAX_VALUE))
+                .addContainerGap(51, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());

@@ -70,7 +70,7 @@ public class Loading extends javax.swing.JFrame implements Runnable{
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Employee Management", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Times New Roman", 1, 22), new java.awt.Color(51, 153, 255))); // NOI18N
+        jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Employee Management", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.ABOVE_TOP, new java.awt.Font("Times New Roman", 1, 22), new java.awt.Color(0, 51, 153))); // NOI18N
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ICONS/chromium-app-list-icon.png"))); // NOI18N
 
